@@ -1,2 +1,1 @@
-# csgo
- cfg
+C:\Program Files (x86)\Steam\userdata\<uniqueID>\730
